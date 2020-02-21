@@ -1,0 +1,31 @@
+{
+  "name": "pomf",
+  "version": "2.1.0",
+  "description": "Kawaii file host",
+  "homepage": "https://pantsu.cat/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pomf/pomf"
+  },
+  "author": "Eliot Whalan <ewhal@pantsu.cat>",
+  "contributors": [
+    "Eric Johansson <neku@pomf.se>",
+    "Peter Lejeck <peter.lejeck@gmail.com>",
+    "cenci0 <alchimist94@gmail.com>",
+    "Juuso Lapinlampi <wub@partyvan.eu>",
+    "Luminarys <postmaster@gensok.io>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pomf/pomf/issues"
+  },
+  "devDependencies": {
+    "clean-css": "^4.2.3",
+    "swig": "^1.4.2",
+    "uglify-js": "^2.6.2"
+  },
+  "dependencies": {
+    "clean-css-cli": "^4.3.0",
+    "htmlmin": "0.0.6"
+  }
+}
