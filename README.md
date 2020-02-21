@@ -19,3 +19,8 @@ htaccess -c /src/pomf-tor/pwd/.htpasswd user1
 ```
 
 **Strongly recommended to not use user1 as a username**
+
+----
+Date: 21-02-2020
+
+![http://creativecommons.org/licenses/by-nc-sa/4.0](https://du11hjcvx0uqb.cloudfront.net/br/dist/images/cc/cc_by_nc_sa-01ee261355.png)
